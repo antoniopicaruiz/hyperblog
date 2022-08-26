@@ -1,13 +1,14 @@
 body
 {
-    color: yellow;    
+    color: green;    
+
     text-align: center;
     font-family: "Courier" ;
 }
 
 #cabecera
 {
-    background: blue;
+    background: rgb(255, 0, 0);
     color: white;
     font-weight: bold;
     margin: 0
